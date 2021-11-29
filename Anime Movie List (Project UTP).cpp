@@ -32,6 +32,7 @@ void closeHeader(){
 	cout <<"============================================"<<endl;
 }
 
+
 int main (){
 	
 	string nama, judulfilm, ya;
