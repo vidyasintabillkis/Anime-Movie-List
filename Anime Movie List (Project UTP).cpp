@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-int jumlah; 
+double jumlah; 
 
 double pajak (){
 	double x=jumlah; 
