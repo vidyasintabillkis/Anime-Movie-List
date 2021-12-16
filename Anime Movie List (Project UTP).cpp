@@ -8,7 +8,7 @@ double pajak (){
 	return x*0.1;
 }
 
-double total(){
+int total(){
 	double x=jumlah;
 	double y=pajak();
 	return x+y; 
