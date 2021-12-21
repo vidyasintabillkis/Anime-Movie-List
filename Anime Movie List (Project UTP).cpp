@@ -4,7 +4,7 @@ using namespace std;
 double jumlah; 
 
 double pajak (){
-	double x=jumlah; 
+	float x=jumlah; 
 	return x*0.1;
 }
 
